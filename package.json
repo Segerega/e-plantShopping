@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Segerega.github.io/e-plantShopping/",
+  "homepage": "https://Segerega.github.io/e-plantShopping/shoppingreact",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
